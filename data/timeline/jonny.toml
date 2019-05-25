@@ -1,5 +1,439 @@
 [[1988-10-14]]
-event 	 = "🐣 I enter the world."
-category = "self"
-tags 		 = ["me"]
-desc     = ""
+event = "I arrive in the world 👋🏻"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "birthplace: Cambridge, UK"
+photo = "[link]"
+
+[[1992-09-01]]
+event = "I start at Tenterfield Nursery school 🎒"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = ""
+photo = "[link]"
+
+[[1993-09-01]]
+event = "First day at Sherrardswood School 🏫"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = ""
+photo = "[link]"
+
+[[2000-10-14]]
+event = "Enjoy athletics 🏆"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Win athletics trophies for throwing things long distances"
+photo = "[link]"
+
+[[2000-07]]
+event = "Grandma Miller Passes Away 💔. "
+category = "life"
+tags = ["family"]
+desc = "Jean Miller dies aged 75"
+
+[[2000-09-03]]
+event = "First day at St Albans School 🏫"
+category = "life"
+tags = ["life"]
+link = "..."
+desc = ""
+photo = "[link]"
+
+[[2006-06]]
+event = "Frustrated by school 😬"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Mr. Woodsmith in my sixth form school report wrote: 'With his lack of respect for authority, Jonathan is either in for a big shock or will incredibly successful in the future'."
+photo = "[link]"
+
+[[2007-06]]
+event = "Graduated from School 👨🏻‍🎓"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Studying Double Maths & Economics. Yearbook showed me as 2nd most likely person to still be at university in 10 years time."
+photo = "[link]"
+
+[[2007-12-21]]
+event = "Train to become a surf instructor 🏄🏻‍♂️"
+category = "life"
+link = "..."
+desc = ""
+photo = "[https://cl.ly/5fdbbfbbd0b8]"
+
+[[2008-02]]
+event = "Buy VW Campervan 🚎"
+category = "travel"
+tags = ["..."]
+link = "..."
+desc = "Drive up East Coast of Australia surfing along the way."
+photo = "[https://cl.ly/f497c45063ed]"
+
+[[2008-03]]
+event = "Spend 3 months in Indonesia 🇮🇩"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Spend a month sleeping in a hammock at Balangan beach."
+photo = "[https://cl.ly/f25ba4665c9e]"
+
+[[2008-06]]
+event = "Fall in love with surfing 🏄🏻‍♂️"
+category = "adventure"
+desc = "I get over my fear of surfing on reef."
+photo = "[https://cl.ly/a90bb02ba25f]"
+
+[[2008-07]]
+event = "SE Asia Backpacking Adventures 🌎"
+category = "travel"
+tags = ["travel"]
+desc = "Backpacking and climbing through Thailand, Cambodia, Vietnam & Sri Lanka."
+photo = "[https://cl.ly/157635968f6a]"
+
+[[2008-08-14]]
+event = "First motorbiking experience—on the back of a Honda 125cc"
+category = "life"
+link = "https://maptia.com/jonny/stories/easyriding"
+photo = "[https://cl.ly/266576e68425]"
+
+[[2008-10-02]]
+event = "Begin studying at Durham University 👨🏻‍🎓"
+category = "study"
+desc = "Studying Economics, Philosophy & Psychology"
+
+[[2009-07]]
+event = "Attempt the Mongol Rally 🚗"
+category = "life"
+desc = "The aim was to ride from London >> Mongolia in an old banger (we didn't make it!)"
+photo = "[https://cl.ly/e526dbbf8c5b]"
+
+[[2009-07-31]]
+event = "Spontaneous Train Journey into Tehran"
+category = "travel"
+tags = ["adventure"]
+link = "https://maptia.com/jonny/stories/a-spontaneous-train-journey-into-tehran"
+desc = "I decided it would be a good idea to book a one-way 3,000 km train ticket to the capital city of Tehran."
+photo = "[https://cl.ly/1227329013a9]"
+
+[[2009-03-05]]
+event = "Discover surfing in Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+category = "life"
+tags = ["surfing"]
+link = "https://maptia.com/jonny/stories/northern-glory"
+desc = "On a clear day the water here is such a vivid shade of green that you would be forgiven for confusing it with the Maldives. Along with rugged cliffs, empty coastal roads and outstanding natural beauty—Thurso is also home to one of the most perfect right-hand waves in the world."
+photo = "[https://cl.ly/38fe29e1ab35]"
+
+[[2011-04]]
+event = "Complete dissertation 😅"
+category = "study"
+tags = ["learning, writing"]
+link = "https://www.forbes.com/sites/singularity/2013/01/21/a-radically-new-ideas-machine-kickstarting-an-x-prize-for-everything/"
+desc = "Matteo My economics dissertation tutor once said to me that he believed that I was capable of anything that I set my mind to. It was a challenging 6 months but the resulting idea was written up in Forbes by Peter Diamandis."
+
+[[2011-07]]
+event = "Graduate from Durham University"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Have very little idea what to do with my life..."
+photo = "[link]"
+
+[[2011-08]]
+event = "Work as a surf instructor in Morocco 🇲🇦"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = "Anything to avoid getting a corporate job in the city."
+photo = "[link]"
+
+[[2012-01-11]]
+event = "Fly to Santiago, Chile 🇨🇱"
+category = "life"
+tags = ["maptia"]
+desc = "Over the moon with excitement – the startup adventure begins!"
+photo = "[🇨🇱]"
+
+[[2012-06-27]]
+event = "Accepted into Techstars 🚀"
+category = "work"
+tags = ["maptia"]
+desc = "Flew to Las Vegas for a very intimidating final round of interviews 😬"
+photo = "[https://cl.ly/92f321fe7cd0]"
+
+[[2012-12-29]]
+event = "Relocated Maptia to Morocco"
+category = "life"
+tags = ["..."]
+link = "https://qr.ae/TUGAiH"
+desc = ""
+photo = "[https://cl.ly/74bbef646453]"
+
+[[2012-12-29]]
+event = "Relocated Maptia to Switzerland 🇨🇭"
+category = "life"
+tags = ["maptia"]
+link = "https://medium.com/storytelling-on-maptia/announcing-our-new-team-member-and-another-hq-relocation-c21fa8704428"
+photo = "[https://cl.ly/f62cb5771f6d]"
+
+[[2013-09-23]]
+event = "Launch Maptia 1.0"
+category = "life"
+link = "https://www.wired.co.uk/article/startup-of-the-week-maptia"
+photo = "[https://cl.ly/e5ae256c5ccc]"
+
+[[2014-07-27]]
+event = "Fall for Sophie 🥰"
+category = "relationship"
+tags = ["..."]
+desc = "The first time I see her she is carrying a back of quick dry concrete determined to erect a hammock in her brother's back garden."
+photo = "[]"
+
+[[2014-12-03]]
+event = "Lessons learned on the startup adventure"
+category = "life"
+tags = ["writing"]
+link = "https://medium.com/founder-stories/ten-things-we-believe-2c85c462d508"
+desc = ""
+photo = "[link]"
+
+[[2015-03-14]]
+event = "Adventures in San Sebastian 🇪🇸"
+category = "life"
+tags = ["..."]
+link = "..."
+desc = ""
+photo = "[https://cl.ly/ebc70dcaf1ec]"
+
+[[2015-08-02]]
+event = "Move into new house in Brighton with Soph 🏡"
+category = "life"
+desc = ""
+photo = "[https://cl.ly/59218cd36c72]"
+
+[[2015-09-25]]
+event = "Cross the English Channel on a SUP for charity: water"
+category = "life"
+tags = ["..."]
+link = "https://twitter.com/charitywater/status/647423924905504768"
+desc = "It takes 5 hours 25 minutes (we narrowly avoid the huge ferries!)"
+photo = "[https://twitter.com/charitywater/status/647423924905504768]"
+
+[[2015-12-31]]
+event = "2015 Review | Going with the flow"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAcP5-4wvY5JXbOD3w4UQYYI3clLfi-IACU"
+desc = ""
+photo = "[https://cl.ly/b943773812eb]"
+
+[[2016-05-06]]
+event = "Make the difficult decision to leave Maptia"
+category = "life"
+tags = ["maptia"]
+link = "https://theascent.pub/how-do-you-know-when-its-time-to-move-on-cf154fdd5907?source=---------24------------------"
+desc = "How we spend our days, is of course how we spend our lives."
+photo = "[https://cl.ly/0ea6e9773818]"
+
+[[2016-08]]
+event = "Join Escape the City"
+category = "life"
+tags = ["work"]
+link = "https://medium.com/@benkeene/introducing-escape-the-citys-new-startup-tribe-leaders-d5f008348885"
+desc = "Roped in to lead their 'Startup Tribes'"
+photo = "[https://cl.ly/33d284226ea9]"
+
+[[2016-09-14]]
+event = "💯 lessons learned in 10,000 days"
+category = "life"
+tags = ["writing, lessons, life"]
+link = "https://medium.com/the-mission/in-10-000-731d3a00c17a?source=---------18------------------"
+desc = ""
+photo = "[https://cl.ly/046d66e250b9]"
+
+[[2016-02-19]]
+event = "We adopt 'Mogs' 🐈"
+category = "life"
+photo = "[https://cl.ly/757fcc2b72f9]"
+
+[[2016-04-19]]
+event = "Sophie proposes to me in the shower 💍"
+category = "life"
+photo = "[https://cl.ly/1e3733668d6d]"
+
+[[2016-12-31]]
+event = "2016 Review | Coming Alive"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/shard/s7/nl/954518/1c58691d-8768-445e-9b9b-c4cfd3ea8619/"
+desc = ""
+photo = "[https://cl.ly/b3c046a8b556]"
+
+[[2017-05-27]]
+event = "Complete Yoga Teacher Training 🧘🏻‍♂️"
+category = "life"
+tags = ["yoga"]
+desc = ""
+photo = "[https://cl.ly/0a2862851a6f]"
+
+[[2017-08-09]]
+event = "Attempt to paddle board down the longest river in Scandinavia 🇳🇴"
+category = "life"
+tags = ["adventure"]
+link = "https://www.instagram.com/p/BX5NpogAVfH/"
+desc = "We don't make it but have a lot of fun along the way!"
+photo = "[https://cl.ly/b28f5ddf8331]"
+
+[[2017-10-12]]
+event = "Operation Mount surfboard onto a Triumph 🏍+🏄"
+category = "life"
+tags = ["adventure"]
+link = "https://www.instagram.com/p/BaHmQEjHpmU/"
+desc = "This begun as a slightly bonkers idea for a motorbike 'surfari'... not unsurprisingly, there didn't seem to be anything online besides flimsy moped racks. So I optimistically reached out to Andrew in Brighton and pitched him with the mad idea of building a custom rack for the Triumph. Andrew agreed it was a bit crazy, but kindly agreed to give it a shot and after a couple of weeks of prototyping and wrestling with mount points he forged what is possibly the only functioning Triumph motorbike in the world with a surfboard rack attached. As a well-known Baggins once quipped: 'I'm going on an adventure!'"
+photo = "[https://www.instagram.com/p/BaHmQEjHpmU/]"
+
+[[2017-12-11]]
+event = "Shape my own wooden surfboard in Portugal 🇵🇹"
+category = "life"
+tags = ["adventure"]
+desc = "It eventually becomes a 7'6 single fin (after a lot of sanding!"
+photo = "[https://cl.ly/7d8f64327742]"
+
+[[2017-10-11]]
+event = "Sent first Curious Humans Newsletter 💌"
+category = "life"
+tags = ["writing"]
+link = "https://curioushumans.substack.com/p/a-veritable-feast-of-brainfood"
+
+[[2017-10-23]]
+event = "Sophie takes her own life 💔"
+category = "life"
+tags = ["family, life"]
+link = "https://curioushumans.substack.com/p/what-matters-most"
+photo = "[https://cl.ly/7f1565237c02]"
+
+[[2017-11-28]]
+event = "Sophie's memorial 🙏🏻"
+category = "life"
+tags = ["family, life"]
+link = "https://medium.com/@jonnym1ller/sophies-gifts-to-the-world-d21bcdfd3b7d?source=---------7------------------"
+desc = "One of the hardest days of my life."
+photo = "[link]"
+
+[[2017-12-31]]
+event = "2017 Review | Adventures  in Love & Loss"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/pub/liveforsurf/2017reflections"
+
+[[2018-10-14]]
+event = "Attend second meditation retreat 🧘🏻‍♂️"
+category = "life"
+tags = ["meditation"]
+link = "https://blog.usejournal.com/dont-just-do-something-sit-there-6f7334c511e5"
+desc = "Eight insights from Nine Days of Sitting in Silence"
+photo = "[https://cl.ly/1651f9d8197f]"
+
+[[2018-01]]
+event = "Vipassa-whoa! 🧘‍♂️"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAefRzCGbOdKmaWnWdoHPpgGEB4GUyPAHX4"
+
+[[2018-02]]
+event = "In Between Tides 🌊"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAfMRF0CfIxOJ5LkbLKyxKMTqGJvSdsKOBQ"
+
+[[2018-03]]
+event = "Finding the Bali Groove"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAfcJISSSbJL_4SKHrY6GVk8ZeK-XBFlaH8"
+
+[[2018-04]]
+event = "A Deep Dive 🐠"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAc0JINb8FFKxrr1nMjQr_qsg0MMDGe0R2k"
+
+[[2018-05]]
+event = "Come to the Edge ⛰️"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAdNK00RySRGQLYT8TuFv2tU9zF7z52hDLA"
+
+[[2018-06]]
+event = "Returning Home ☘️"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAd9ej19U5tMm5Xxsmr9BaJFFT5xzEUSZgg"
+
+[[2018-07]]
+event = "WDS & Spirit Rock 🙏🏻"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAd9ej19U5tMm5Xxsmr9BaJFFT5xzEUSZgg"
+
+[[2018-08]]
+event = "Stumbling into Joy 😃"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAd1L48TzUNDP4Z2jI14-cvYalsPGgzzziE"
+
+[[2018-09]]
+event = "Leading the Tribe 👊🏻"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAdyEkF3uoRKk4BNyV5AgpUjjq9LCeZzJRM"
+
+[[2018-10]]
+event = "Turning 30 🥳"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAewkd0te-pHY5U5k92QPutwCS2ngyFrUOQ"
+
+[[2018-11]]
+event = "End of the beginning 🍂"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAewkd0te-pHY5U5k92QPutwCS2ngyFrUOQ"
+
+[[2018-12]]
+event = "Laying Foundations 🌴"
+category = "reflection"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAfyo2XlKWVFVK-1fs4C3mx7ftsIfRU1IKY"
+
+[[2018-12-31]]
+event = "2018 Review | Navigating Grief 🚣🏻‍♂️"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAfDDoqbd81EtLUWCh6a4GRM5dz0Gz7T10A"
+
+[[2019-01]]
+event = "Embracing the Turtle 🐢"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAfPTwj9Id1Cu7zOuzp9cGco9Cohj7PB-wA"
+
+[[2019-02]]
+event = "Taking the exquisite risk ❤️"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAcfLn4JZz1GpJygq-VWRc1O8a7zS9nPUtc"
+
+[[2019-03]]
+event = "Curiosity & Beyond 🧗🏻‍♂️"
+category = "review"
+tags = ["writing, reflection"]
+link = "https://www.evernote.com/l/AAea5ialZwZDE5q-AtGcxasdJGVK3zl6oKQ"
+
+
+
